@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=NumberGuessingGameTester
+comment0.text=\n\ The\ main\ method\ to\ run\ the\ number\ guessing\ game.\ The\ game\ consists\ of\ three\ rounds\n\ with\ different\ numbers\ of\ trials\:\ 10,\ 5,\ and\ 3.\n\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
